@@ -7,8 +7,8 @@ const App = () => {
   return (
      <div>
       HAHA
-      hahaha
-      popo
+        hahaha
+          popo
       <Thing />
     </div>
   );
