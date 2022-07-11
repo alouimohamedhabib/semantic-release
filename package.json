@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@mohamedhabibaloui/test",
+  "name": "the-mohamedhabibaloui-test",
   "author": "Mohamed Habib ALOUI",
   "module": "dist/test.esm.js",
   "size-limit": [
