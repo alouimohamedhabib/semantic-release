@@ -5,10 +5,12 @@ import { Thing } from '../.';
 
 const App = () => {
   return (
+
      <div>
       HAHA
         hahaha
           --- +++ popo
+
       <Thing />
     </div>
   );
