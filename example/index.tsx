@@ -8,6 +8,7 @@ const App = () => {
     <div>
       HAHA
       hahaha
+      popo
       <Thing />
     </div>
   );
